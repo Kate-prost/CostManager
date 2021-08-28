@@ -4,7 +4,7 @@ from kivymd.uix.label import MDLabel
 
 class CostManagerApp(MDApp):
     def build(self):
-        return MDLabel(text='Hello Kate', halign="center")
+        return MDLabel(text='Hello Manager', halign="center")
 
 
 CostManagerApp().run()

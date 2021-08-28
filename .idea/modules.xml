@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pWTF.iml" filepath="$PROJECT_DIR$/.idea/pWTF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/costmanager.iml" filepath="$PROJECT_DIR$/.idea/costmanager.iml" />
     </modules>
   </component>
 </project>

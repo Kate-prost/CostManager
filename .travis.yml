@@ -1,4 +1,4 @@
-os: linux
+os: macOS Big Sur
 dist: focal
 language: python
 
